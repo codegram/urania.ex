@@ -101,7 +101,7 @@ in Clojure Urania. Everything else should have the same names and semantics.
     ```
 ## Documentation
 
-Check out [the API documentation](https://hexdocs.pm/urania/Urania) for detailed
+Check out [the API documentation](https://hexdocs.pm/urania/Urania.html) for detailed
 examples of each of the Urania primitives.
 
 ## Acknowledgements
